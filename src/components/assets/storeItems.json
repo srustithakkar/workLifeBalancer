@@ -1,0 +1,63 @@
+[
+    {
+      "name": "T-shirt",
+      "price": 20,
+      "description": "Comfortable cotton t-shirt, available in a range of colors and sizes.",
+      "image": "https://i.pinimg.com/564x/57/a8/9f/57a89f08f5bffe68701b51d72e9fc87c.jpg"
+    },
+    {
+      "name": "Running Shoes",
+      "price": 80,
+      "description": "Lightweight and breathable, perfect for your daily jog.",
+      "image": "https://i.pinimg.com/564x/45/15/6d/45156d5c2a9993a0c818befe3c5bf512.jpg"
+    },
+    {
+      "name": "Laptop Sleeve",
+      "price": 35,
+      "description": "Sleek and protective laptop sleeve, with a soft inner lining and water-resistant exterior.",
+      "image": "https://i.pinimg.com/736x/73/d6/8e/73d68e180ba5a440593f0bb50683569f.jpg"
+    },
+    {
+      "name": "Water Bottle",
+      "price": 15,
+      "description": "Durable and leak-proof water bottle, with a secure twist cap and wide mouth for easy filling.",
+      "image": "https://i.pinimg.com/564x/3f/a9/13/3fa91308f7275c18cc11503a10d3a7a6.jpg"
+    },
+    {
+      "name": "Hiking Backpack",
+      "price": 120,
+      "description": "Spacious and rugged hiking backpack, with multiple compartments and adjustable straps for a comfortable fit.",
+      "image": "https://i.pinimg.com/564x/4b/8a/41/4b8a41126ff1a80342884e7f3d03223f.jpg"
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "price": 50,
+      "description": "Portable and waterproof Bluetooth speaker, with clear sound and easy-to-use controls.",
+      "image": "https://i.pinimg.com/736x/eb/91/6a/eb916a85407180161df9663a6241c75d.jpg"
+    },
+    {
+      "name": "Wireless Earbuds",
+      "price": 100,
+      "description": "High-quality wireless earbuds, with noise-cancellation and a long battery life.",
+      "image": "https://i.pinimg.com/564x/61/07/dc/6107dc40df76ff2f1a944c57f69b5ca7.jpg"
+    },
+    {
+      "name": "Yoga Mat",
+      "price": 30,
+      "description": "Thick and durable yoga mat, with a non-slip surface and easy-to-clean design.",
+      "image": "https://i.pinimg.com/564x/ef/9a/34/ef9a343a091c95ad4845111c091fadc8.jpg"
+    },
+    {
+      "name": "Digital Camera",
+      "price": 250,
+      "description": "Compact and versatile digital camera, with high-resolution imaging and advanced features for professional-quality photos.",
+      "image": "https://i.pinimg.com/564x/68/4c/c2/684cc2a7f0431e61f3552e5ba3eaa4cc.jpg"
+    },
+    {
+      "name": "Electric Toothbrush",
+      "price": 70,
+      "description": "Powerful and effective electric toothbrush, with multiple modes and a long battery life.",
+      "image": "https://i.pinimg.com/736x/2a/43/a4/2a43a45415c28c35621ba6bfb63ee0f0.jpg"
+    }
+  ]
+  
